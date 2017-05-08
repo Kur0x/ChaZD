@@ -104,9 +104,9 @@ var source = document.querySelector("#source");
 var keySet = document.querySelector("#key-set");
 var score = document.querySelector("#score");
 
-createLink(email, "mailto:ververcpp@gmail.com");
-createLink(source, "https://github.com/ververcpp/ChaZD");
-createLink(issue, "https://github.com/ververcpp/ChaZD/issues/new");
+createLink(email, "mailto:kur0x@gmail.com");
+createLink(source, "https://github.com/kur0x/ChaZD");
+createLink(issue, "https://github.com/kur0x/ChaZD/issues/new");
 createLink(keySet, "chrome://extensions/configureCommands");
 createLink(score, "https://chrome.google.com/webstore/detail/chazd/nkiipedegbhbjmajlhpegcpcaacbfggp");
 
